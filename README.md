@@ -11,5 +11,5 @@ https://app.patika.dev/myldrm
 ### Sayfa Görseli
 
 
-<img src="./3.png>
+<img src="./3.png">
 
